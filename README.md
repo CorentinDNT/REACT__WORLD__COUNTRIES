@@ -25,3 +25,10 @@
 2. Une fois cloné rendez-vous dans l'invite de commandes et allez dans le dossier racine a l'aide de la commande `cd REACT_WORLD_COUNTRY`
 3. Toujours dans l'invite de commandes, installez les dépendances avec la commande `npm i`
 4. Puis, lancez le serveur front-end avec la commande `npm start`
+
+
+
+### Ah oui, quelques extentions VSC bien pratiques...
+1. React code snippets
+2. Simple React snippets
+3. dans le fichier settings.json de votre vsc -> `"emmet.includeLanguages": { "javascript": "javascriptreact" },` pour avoir l'autocoplétion HTML dans les fichiers JS :wink:
